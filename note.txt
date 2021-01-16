@@ -1,0 +1,7 @@
+### activate django virtual env for TLE-notebook
+### make sure virutal env bin is in this path => /mnt/d/env/djangoenv/bin
+source /mnt/d/env/djangoenv/bin/activate
+
+### deactivate virtual env
+### make sure you are activate the virtual env
+deactivate
