@@ -1,4 +1,4 @@
-# DEPENDENCIES
+# Dependencies
  - Python3.6.x or above
  - Python Virtualenv
  - Python Django 3.1.5 or above
